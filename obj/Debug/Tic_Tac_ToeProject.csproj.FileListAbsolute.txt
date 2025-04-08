@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.Form1.resources
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.Properties.Resources.resources
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\bin\Debug\Tic_Tac_ToeProject.exe.config
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\bin\Debug\Tic_Tac_ToeProject.exe
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\bin\Debug\Tic_Tac_ToeProject.pdb
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.exe
+C:\Users\pc\source\repos\C# project\Tic_Tac_ToeProject\obj\Debug\Tic_Tac_ToeProject.pdb
